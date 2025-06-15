@@ -1,10 +1,14 @@
-# best-option.js
+# modulTabs.js
+Данный код представляет собой JavaScript модуль c подробными комментариями, который реализует функциональность вкладок (табов) на веб-странице. 
+Код написан в виде IIFE (Immediately Invoked Function Expression), что создает приватную область видимости для переменных и функций внутри модуля TabsModule. Это помогает избежать загрязнения глобальной области видимости и способствует модульности кода.
+
+# another.js
 the best option for a product catalog (works with any number of tabs)
 оптимальный вариант для каталога с товарами (работает с любым количеством вкладок)
 two variables (tabs and content) - there are explanations in the file
  две переменные (вкладки и контент) - в файле есть объяснения
 
-# script.js
+# simple.js
 табы на javascript
 простой скрипт. Использует 2 переменныe.<br>
 let tab - сюда кладем собственно табы<br>
